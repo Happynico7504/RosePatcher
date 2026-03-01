@@ -1,5 +1,5 @@
 #ur0 is default
-url0:http://192.168.8.4:10060
+url0:https://nicochristmann.net/nintendo-tvii
 
 # on/off debug print of client
 CallbackDebugPrint:0
