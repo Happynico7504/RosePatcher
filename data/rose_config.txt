@@ -1,5 +1,5 @@
 #ur0 is default
-url0:https://whitelist.l1.us.vino.wup.app.projectrose.cafe/
+url0:https://nicochristmann.net/nintendo-tvii/
 
 # on/off debug print of client
 CallbackDebugPrint:0
@@ -31,7 +31,7 @@ ConsoleLogPrint:0
 # 0:Development (display DRC-screen with some debug information)
 # 1:Demo        (display only DRC-screen at center)
 # 2:Final       (display nothing)
-TVStyle:2
+TVStyle:0
 
 #LoadUrl
 # 0: Load from WhiteList (If not exist, load from url0.)
