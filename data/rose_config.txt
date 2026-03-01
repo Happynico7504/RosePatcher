@@ -1,5 +1,5 @@
 #ur0 is default
-url0:https://tvii.nicochristmann.net/
+url0:https://tvii.nicochristmann.net
 
 # on/off debug print of client
 CallbackDebugPrint:0
