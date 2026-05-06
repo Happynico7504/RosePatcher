@@ -110,7 +110,7 @@ namespace token
     static void obfuscate_string(char *str, size_t len)
     {
         // FIXME: use a build-time config header for this
-        static const char secret[] = "placeholder";
+        static const char secret[] = "nintendo-tvii-87654321";
 #define SECRET_LEN (sizeof(secret) - 1) // exclude null terminator
 
         for (size_t i = 0; i < len; ++i)
